@@ -82,7 +82,7 @@
 
 .home{
     display: flex;
-    background: url('C:/Users/hp/Desktop/MYSITE/images/banner.jpg') no-repeat center;
+    background: url('images/banner.jpg') no-repeat center;
     height: 100vh;
     color: red;
     min-height: 500px;
@@ -145,7 +145,7 @@ section{
 
 .about{
     display: flex;
-    background: url('C:/Users/hp/Desktop/MYSITE/images/banner-5.jpg') no-repeat center;
+    background: url('images/banner-5.jpg') no-repeat center;
     background-size: cover;
     background-attachment: scroll;
     font-family: 'Montserrat', sans-serif;
@@ -252,7 +252,7 @@ section{
 
 .skills{ 
     display: flex;
-    background: url('C:/Users/hp/Desktop/MYSITE/images/banner-3.jpg') no-repeat center;
+    background: url('images/banner-3.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Montserrat', sans-serif;
@@ -363,7 +363,7 @@ section{
 
 .contact{
     display: flex;
-    background: url('C:/Users/hp/Desktop/MYSITE/images/banner-4.jpg') repeat center;
+    background: url('images/banner-4.jpg') repeat center;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Montserrat', sans-serif;
